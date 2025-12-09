@@ -1,0 +1,6 @@
+This project is a simple Python script that prints a personal introduction.
+The repository includes:
+- README.md
+- personal_intro.py
+- requirements.txt
+- screenshot.png
